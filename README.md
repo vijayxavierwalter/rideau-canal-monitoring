@@ -10,7 +10,7 @@ Winter 2026.
 🎥 [Watch Demo Video] (https://youtu.be/2eRHJw1ONuU)
 
 
-Links to the three service repositories created:
+Links to the Two repositories created:
 
 rideau-canal-dashboard- https://github.com/vijayxavierwalter/rideau-canal-dashboard.git
 
