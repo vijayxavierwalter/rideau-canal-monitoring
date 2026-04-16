@@ -79,7 +79,7 @@ Simulates sensor data for:
 
 ### Azure IoT Hub
 - Receives telemetry from simulated sensors  
-- Device configured: `rideau-canal-sensor-1`
+- Device configured: `rideau-canal-sensor-1`rideau-canal-sensor-2, rideau-canal-sensor-3
 
 ---
 
