@@ -1,19 +1,24 @@
-Vijay Xavier Walter.     
-041276252.     
-CST8916 Remote Data and RT Applications     
-Winter 2026.      
+ # Project Repository Links
 
----
+## Student Information
+- **Name:** Vijay Xavier Walter
+- **Student ID:** 041276252
+- **Course:** CST8916 Winter -Remote Data and RT Applications
 
-## Demo Video
+## Repository Links
 
-🎥 [Watch Demo Video] (https://youtu.be/2eRHJw1ONuU)
+### 1. Main Documentation Repository
+- **URL:** https://github.com/vijayxavierwalter/rideau-canal-monitoring.git
+- **Description:** Complete project documentation, architecture, screenshots, and guides
 
+### 2. Sensor Simulation Repository
+- **URL:** https://github.com/vijayxavierwalter/rideau-canal-sensor-simulation.git
+- **Description:** IoT sensor simulator code
 
-Links to the Two repositories created:
+### 3. Web Dashboard Repository
+- **URL:** https://github.com/vijayxavierwalter/rideau-canal-dashboard.git
+- **Description:** Web dashboard application
 
-rideau-canal-dashboard- https://github.com/vijayxavierwalter/rideau-canal-dashboard.git
+## Demo
 
-rideau-canal-sensor-simulation - https://github.com/vijayxavierwalter/rideau-canal-sensor-simulation.git   
-
- 
+- **Video Demo:** [YouTube]
