@@ -83,6 +83,11 @@ Simulates sensor data for:
 
 ---
 
+### AI Tools Used
+- **Tool:** ChatGPT 
+- **Purpose:** Code generation
+- **Extent:** I only used ChatGPT to generate code. All remaining work was done by me only.
+- 
 ### Stream Analytics Job
 
 ```sql
@@ -118,3 +123,5 @@ SELECT
 INTO blobOutput
 FROM input
 GROUP BY input.location, TumblingWindow(second, 60);
+
+
