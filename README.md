@@ -21,7 +21,7 @@
 
 ## Demo
 
-- **Video Demo:** [YouTube]
+- **Video Demo:** [https://youtu.be/ZoBQyuB1NyE]
 
 
 # Rideau Canal Real-Time Monitoring System
