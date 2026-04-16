@@ -83,11 +83,6 @@ Simulates sensor data for:
 
 ---
 
-### AI Tools Used
-- **Tool:** ChatGPT 
-- **Purpose:** Code generation
-- **Extent:** I only used ChatGPT to generate code. All remaining work was done by me only.
-- 
 ### Stream Analytics Job
 
 ```sql
